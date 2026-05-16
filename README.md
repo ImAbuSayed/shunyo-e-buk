@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shunyo-e-buk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shunyo E Buk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunyo-e-buk/) |
+| **Get License** | [Get License For Shunyo E Buk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunyo-e-buk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `016a617b3cae816fe683bebd57995d111e91e6e6d32c09f5c6e00e55d85264fa` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

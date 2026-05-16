@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shunyo-e-buk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Shunyo E Buk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunyo-e-buk/) |
+| **Get License** | [Secure Licensing Rights for Shunyo E Buk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunyo-e-buk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শূন্য এ বুক আজ তোমায় খোঁজে
+> অচেনা এক নেশা এই চোখে বোঝে
+> হারিয়েছি আমি তোমার ওই মায়ায়
+> ছুঁয়ে দাও এসে আমার এই ছায়ায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
